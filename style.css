@@ -1,0 +1,12 @@
+.satu {
+    width: 700px;
+    height: 700px;
+    background-image: radial-gradient(ellipse at 50% 100%, white, blue);
+    
+}
+
+.dua {
+    width: 700px;
+    height: 200px;
+    background-image: linear-gradient(blue, white)
+}
